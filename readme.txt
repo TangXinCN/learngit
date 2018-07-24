@@ -5,3 +5,6 @@ Git tracks changes.
 
 The following sentences are edit in 2018.
 Git is hard for learning. 
+
+Try to add some lines.
+See how it works.
